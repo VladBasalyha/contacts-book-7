@@ -84,7 +84,7 @@ export const ContactForm = () => {
           placeholder="Please, enter your Number"
           required
         />
-        <Error name="number" component="div" />
+        <Error name="number" component="div" />1
         <SubmitButton type="submit">Add contact</SubmitButton>
       </FormWrapp>
     </Formik>
