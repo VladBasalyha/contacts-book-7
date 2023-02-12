@@ -76,7 +76,7 @@ export const ContactForm = () => {
           placeholder="Please, enter your Name"
           required
         />
-        <Error name="name" component="div" />]
+        <Error name="name" component="div" />
         <Label htmlFor="number">Number</Label>
         <Input
           type="tel"

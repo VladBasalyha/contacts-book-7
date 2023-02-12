@@ -21,7 +21,7 @@ export const App = () => {
     <Container>
       <h1>Phonebook</h1>
       <ContactForm />
-      <h2>Contacts</h2>
+      <h2>List of contacts</h2>
       <Filter />
       <ContactList />
       {isLoading && !error && <Loader />}
