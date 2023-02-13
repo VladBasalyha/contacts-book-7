@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/contacts-book-7/static/css/main.7acaea2f.css",
-    "main.js": "/contacts-book-7/static/js/main.bf8def8e.js",
-    "index.html": "/contacts-book-7/index.html",
-    "main.7acaea2f.css.map": "/contacts-book-7/static/css/main.7acaea2f.css.map",
-    "main.bf8def8e.js.map": "/contacts-book-7/static/js/main.bf8def8e.js.map"
+    "main.js": "/goit-react-hw-06-phonebook/static/js/main.32851a76.js",
+    "index.html": "/goit-react-hw-06-phonebook/index.html",
+    "main.32851a76.js.map": "/goit-react-hw-06-phonebook/static/js/main.32851a76.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.bf8def8e.js"
+    "static/js/main.32851a76.js"
   ]
 }
