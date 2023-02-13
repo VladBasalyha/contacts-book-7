@@ -1,3 +1,4 @@
+import React from 'react';
 import { ContactForm } from 'components/ContactForm/ContactForm';
 import { Container } from 'components/App.styled';
 import { Filter } from 'components/FilterField/Filter';
