@@ -1,4 +1,2 @@
-export const getContacts = state => state.phonebook.items;
-export const getIsLoading = state => state.phonebook.isLoading;
-export const getError = state => state.phonebook.error;
-export const getFilter = state => state.phonebook.filter;
+export const getContacts = state => state.contacts;
+export const getFilter = state => state.filter.filter;
