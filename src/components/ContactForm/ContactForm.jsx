@@ -27,9 +27,12 @@ export const ContactForm = () => {
 
   const handleFormSubmit = e => {
     e.preventDefault();
-    const form = e.currentTarget;
-  dispatch(addContact({name, number}))
-    form.reset();
+    dispatch(addContact({ name, number }));
+    formReset();
+  };
+  const formReset = () => {
+    setName('');
+    setNumber('');
   };
 
   return (
@@ -64,4 +67,3 @@ export const ContactForm = () => {
     </form>
   );
 };
-
