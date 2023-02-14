@@ -9,6 +9,7 @@ export const App = () => {
       style={{
         height: '100vh',
         display: 'flex',
+        padding: '200px',
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
